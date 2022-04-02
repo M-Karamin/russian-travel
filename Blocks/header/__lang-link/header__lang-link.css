@@ -1,0 +1,25 @@
+.header__lang-link {
+  width: 30px;
+  height: 28px;
+  padding-right: 18px;
+  color: #fff;
+  font-family: 'Inter';
+  font-style: normal;
+  font-size: 24px;
+  line-height: 1.17;
+/* identical to box height, or 117% */
+}
+.header__lang-link:nth-of-type(2) {
+  padding-right: 0;
+  text-decoration: none;
+}
+@media screen and (max-width: 767px) {
+  .header__lang-link {
+    width: 22px;
+    height: 20px;
+    font-size: 18px;
+    line-height: 1.11;
+
+  } 
+}
+
