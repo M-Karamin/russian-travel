@@ -8,6 +8,7 @@
     cursor: pointer;
     margin-left: 48px;
     margin-right: 48px;
+    text-decoration: none;
 }
 .cover:hover {
     opacity: 0.8;

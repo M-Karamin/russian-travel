@@ -1,5 +1,5 @@
 .place__website {
-    min-width: 456px;
+
     max-height: 46px;
     margin-top: 106px;
     padding-left: 40px;
@@ -15,7 +15,7 @@
 
 @media screen and (max-width: 1023px) {
     .place__website {
-        min-width: 352px;
+  
         margin-top: 73px;
         padding-left: 28px;
     }

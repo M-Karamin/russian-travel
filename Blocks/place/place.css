@@ -1,5 +1,5 @@
 .place {
-    max-width: 984px;
+    min-width: 984px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -23,6 +23,7 @@
 
 @media screen and (max-width: 767px) {
     .place {
+        min-width: 320px;
         flex-wrap: nowrap;
         flex-direction: column;
     }
