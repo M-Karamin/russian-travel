@@ -16,6 +16,7 @@
 @media screen and (max-width: 1279px) {
     .cover__subtitle {
         padding-left: 332px;
+        padding-right: 332px;
     }
 
 }
@@ -23,6 +24,7 @@
 @media screen and (max-width: 1023px) {
     .cover__subtitle {
         padding-left: 204px;
+        padding-right: 204px;
     }
 }
 

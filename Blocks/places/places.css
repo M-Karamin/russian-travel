@@ -8,9 +8,10 @@
 }
 
 @media screen and (max-width: 1279px) {
-.places {
-    min-width: 928px;
-    margin-left: 48px;
+    .places {
+        min-width: 928px;
+        margin-left: 48px;
+        margin-right: 48px;
     }
 }
 
